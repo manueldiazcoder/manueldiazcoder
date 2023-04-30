@@ -20,19 +20,6 @@ Soy un Desarrollador Web Full Stack <strong>autodidacta y apasionado</strong> po
 <!-- <hr>
 
 ## 📄 **Experiencia Laboral**: -->
-<!-- <pre>
-<strong>Aprendiz Logística, COMOLSA -</strong> Abril 2021 – Enero 2022 Buga, Colombia
-  <strong>Gestión del almacenamiento y despacho de productos.</strong>
-  <strong>Analicé:</strong> 
-    Procesos logísticos de la empresa, identificando oportunidades de mejora y proponiendo soluciones que permitieran aumentar la eficiencia y reducir costos.
-  <strong>Desarrollé:</strong> 
-    <strong>•Habilidades de organización:</strong> 
-      Análisis de datos y resolución de problemas, lo que me ha sido de gran ayuda en mi carrera como Desarrollador Web Full-Stack. 
-    <strong>•Habilidades interpersonales:</strong>
-      - Adaptabilidad - Aprendizaje rápido - Trabajo en equipo 
-      - Comunicación efectiva - Flexibilidad mental - Perseverancia para lograr metas
-</pre> -->
-<!-- THIS IS THE SAME AS ABOVE -->
 <!-- <p>
 <strong>Aprendiz Logística, COMOLSA -</strong> Abril 2021 – Enero 2022 Buga, Colombia<br>
 <strong>Gestión del almacenamiento y despacho de productos.</strong><br>
