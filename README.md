@@ -1,6 +1,8 @@
 <h2 align="center">Hola 👋, soy Manuel Diaz</h2>
 <h3 align="center">Desarrollador Web Full Stack</h3>
-<p align="center">Puedes evidenciar mis habilidades revisando mis proyectos publicados en este perfil</p>
+<p align="center">Puedes evidenciar mis habilidades revisando mis proyectos publicados en este perfil,<br>
+  también puedes encontrar más información sobre mí y comunicarte conmigo en mi Linkedin, puedes buscarme como "manueld1az"<br>
+  o ubicar los botones que he anexado en este archivo</p>
 <hr>
 
 <!-- Profile views -->
