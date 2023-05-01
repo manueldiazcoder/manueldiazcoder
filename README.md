@@ -90,7 +90,7 @@ tengo conocimientos en: JavaScript, React, PHP, TypeScript, Angular,  Ionic, SQL
 
 <!-- Ways to contact -->
 &nbsp;[![Discord: manueld1az](https://img.shields.io/badge/-manueld1az-purple?style=flat&logo=Discord&logoColor=white&link=https://www.discord.com/in/manueld1az-p-singh/)](https://discord.gg/zPw5BUwYKz)
-[![Linkedin: manueld1az](https://img.shields.io/badge/-manueld1az-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manueld1az-p-singh/)](https://www.linkedin.com/in/manueld1az)
+[![Linkedin: manueld1az](https://img.shields.io/badge/-manueld1az-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manueld1az-p-singh/)](https://www.linkedin.com/in/manueld1az) &nbsp; <= { Si te interesa mi trabajo y quieres colaborar o comunicarte conmigo, no dudes en contactarme a través de mi perfil de Linkedin o por medio de Discord. } 
 
 <!-- Grades of GitHub -->
 <p align="center">&nbsp;
