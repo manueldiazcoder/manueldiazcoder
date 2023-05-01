@@ -14,9 +14,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/manueld1az?label=Follow&style=social)
 <!-- I not have any followers yet ;) -->
 
-<!-- Professional Profile -->
-<p>
-Soy un Desarrollador Web Full Stack <strong>autodidacta y apasionado</strong> por la tecnología, con conocimientos en <strong>JavaScript, React, PHP, TypeScript, Angular, Ionic, SQL.</strong> Buscando una oportunidad para aplicar mis habilidades en un entorno de trabajo <strong>desafiante y enriquecedor</strong>. Soy una persona <strong>comprometida, perseverante;</strong> con habilidades para trabajar en equipo y solucionar problemas de manera creativa. Me enfoco en entregar soluciones <strong>eficientes y bien estructuradas</strong> que satisfagan las necesidades de los clientes y usuarios finales.
+<!-- Professional Profile --><p>
+👋 Hola!, Yo soy un Desarrollador Web Full Stack <strong>autodidacta y apasionado por la tecnología</strong> y
+tengo conocimientos en: JavaScript, React, PHP, TypeScript, Angular,  Ionic, SQL.
+
+👉 Llevo ya casi 3 años analizando y desarrollando software, ahora, estoy buscando una oportunidad para aplicar mis habilidades en un entorno de <strong>trabajo desafiante y enriquecedor</strong>.
+
+👨‍💻 Soy una <strong>persona comprometida, perseverante</strong>, con gusto por trabajar en equipo, solucionar problemas de manera creativa y siempre me enfoco en entregar <strong>soluciones eficientes y bien estructuradas</strong> que satisfagan las necesidades de los clientes y usuarios finales.
 </p>
 
 <!-- <hr>
