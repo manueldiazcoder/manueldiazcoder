@@ -15,11 +15,13 @@
 <!-- I not have any followers yet ;) -->
 
 <!-- Professional Profile --><p>
-👋 Hola!, Yo soy un Desarrollador Full Stack <strong>autodidacta y apasionado por la tecnología</strong>, llevo ya casi <strong>3 años analizando y desarrollando software</strong>, ahora, estoy buscando una oportunidad para aplicar mis habilidades en un entorno de <strong>trabajo desafiante y enriquecedor.</strong>
+👋 ¡Hola! Soy un Desarrollador Full Stack <strong>autodidacta con pasión</strong> por la tecnología y el desarrollo de software.Durante </strong>los últimos casi 3 años</strong>, he adquirido conocimientos en varias tecnologías, incluyendo JavaScript, React, PHP, TypeScript, Angular, Ionic y SQL, entre otras.
 
-👉 <strong>Tengo conocimientos en:</strong> JavaScript, React, PHP, TypeScript, Angular,  Ionic, SQL, entre otras. Puedes encontrar más información de mis habilidades en mi perfil de GitHub.
+💻 En este repositorio encontrarás algunos de mis proyectos más destacados, los cuales he construido para aplicar y demostrar mis habilidades en el desarrollo de software. Cada proyecto tiene su propio conjunto de tecnologías y desafíos, lo que me ha permitido aprender y crecer como desarrollador.
 
-👨‍💻 Soy una <strong>persona comprometida, perseverante,</strong> con gusto por trabajar en equipo, solucionar problemas de manera creativa y siempre me enfoco en entregar <strong>soluciones eficientes y bien estructuradas</strong> que satisfagan las necesidades de los clientes y usuarios finales.
+👨‍💻 Soy una <strong>persona comprometida, perseverante,</strong> y disfruto trabajando en equipo para encontrar soluciones creativas a los problemas. Me enfoco en entregar <strong>soluciones bien estructuradas y eficientes</strong> que satisfagan las necesidades de los clientes y usuarios finales.
+
+📩 Si tienes alguna pregunta o comentario sobre mis proyectos, no dudes en contactarme a través de mi Linkedin o Discord. ¡Me encantaría saber de ti y discutir cómo podríamos trabajar juntos en el futuro!, he anexado varios botones por todos mis proyectos, así encontrarás más información sobre mí y mi trabajo fácilmente.
 </p>
 
 <!-- <hr>
