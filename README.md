@@ -15,12 +15,11 @@
 <!-- I not have any followers yet ;) -->
 
 <!-- Professional Profile --><p>
-👋 Hola!, Yo soy un Desarrollador Web Full Stack <strong>autodidacta y apasionado por la tecnología,</strong>
-tengo conocimientos en: JavaScript, React, PHP, TypeScript, Angular,  Ionic, SQL.
+👋 Hola!, Yo soy un Desarrollador Full Stack <strong>autodidacta y apasionado por la tecnología</strong>, llevo ya casi <strong>3 años analizando y desarrollando software</strong>, ahora, estoy buscando una oportunidad para aplicar mis habilidades en un entorno de <strong>trabajo desafiante y enriquecedor.</strong>
 
-👉 Llevo ya casi 3 años analizando y desarrollando software, ahora, estoy buscando una oportunidad para aplicar mis habilidades en un entorno de <strong>trabajo desafiante y enriquecedor</strong>.
+👉 <strong>Tengo conocimientos en:</strong> JavaScript, React, PHP, TypeScript, Angular,  Ionic, SQL, entre otras. Puedes encontrar más información de mis habilidades en mi perfil de GitHub.
 
-👨‍💻 Soy una <strong>persona comprometida, perseverante</strong>, con gusto por trabajar en equipo, solucionar problemas de manera creativa y siempre me enfoco en entregar <strong>soluciones eficientes y bien estructuradas</strong> que satisfagan las necesidades de los clientes y usuarios finales.
+👨‍💻 Soy una <strong>persona comprometida, perseverante,</strong> con gusto por trabajar en equipo, solucionar problemas de manera creativa y siempre me enfoco en entregar <strong>soluciones eficientes y bien estructuradas</strong> que satisfagan las necesidades de los clientes y usuarios finales.
 </p>
 
 <!-- <hr>
