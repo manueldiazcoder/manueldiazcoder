@@ -95,10 +95,10 @@
 Si te interesa mi trabajo y quieres colaborar o comunicarte conmigo, no dudes en contactarme a través de Linkedin o Discord.
 
 <!-- Grades of GitHub -->
-<p align="center">&nbsp;
+<!--<p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manueld1az&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="manueld1az"/>
 </p>
-<br>
+<br>-->
 
 <!-- Most used languages -->
 <p>
