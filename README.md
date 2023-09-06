@@ -100,15 +100,15 @@ Si te interesa mi trabajo y quieres colaborar o comunicarte conmigo, no dudes en
 </p>
 <br>-->
 
-<!-- Most used languages -->
+<!-- Most used languages
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manueld1az&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&layout=compact" alt="manueld1az" bg_color=#808080 width="40%"/>
-</p>
+</p>-->
 
-<!-- Streaks of GitHub -->
+<!-- Streaks of GitHub
 <p>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=manueld1az&theme=dark&locale=es&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="manueld1az" width="50%"/>
-</p>
+</p> -->
 
 <!-- I'll use it after finishing setting up all my accounts to build community or start working. -->
 <!-- To use this, all the cards with all my skills such as languages and tools, which still need to be added there, must be created first -->
