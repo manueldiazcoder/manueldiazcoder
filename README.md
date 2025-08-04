@@ -10,7 +10,7 @@
 
 <!-- Ways to contact -->
 [![Discord: manueld1az](https://img.shields.io/badge/-manueld1az-purple?style=flat&logo=Discord&logoColor=white&link=https://www.discord.com/in/manueld1az-p-singh/)](https://discord.gg/zPw5BUwYKz)
-&nbsp;&nbsp;&nbsp;[![Linkedin: manueld1az](https://img.shields.io/badge/-manueld1az-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manueld1az-p-singh/)](https://www.linkedin.com/in/manueld1az)
+&nbsp;&nbsp;&nbsp;[![Linkedin: manueld1az](https://img.shields.io/badge/-manueld1az-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/manueld1az-p-singh/)](https://www.linkedin.com/in/manueld1az)
 <!--![GitHub followers](https://img.shields.io/github/followers/manueld1az?label=Follow&style=social)-->
 <!-- I not have any followers yet ;) -->
 
