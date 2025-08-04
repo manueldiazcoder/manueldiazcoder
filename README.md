@@ -20,7 +20,7 @@ Soy un **Desarrollador Full Stack autodidacta**, apasionado por la tecnología y
 
 💻 En este repositorio encontrarás varios de mis proyectos, creados para poner en práctica mis conocimientos y seguir mejorando como desarrollador. Cada uno representa un reto distinto y refleja lo que he aprendido en el camino.
 
-👨‍💻 Me considero una persona **comprometida, perseverante y proactiva**, que disfruta trabajar en equipo y encontrar soluciones creativas a los problemas. Siempre apunto a entregar **código limpio, organizado y eficiente**, enfocado en la experiencia del usuario.
+👨‍💻 Soy una persona **comprometida, perseverante y proactiva**, que disfruta trabajar en equipo y encontrar soluciones creativas a los problemas. Siempre apunto a entregar **código limpio, organizado y eficiente**, enfocado en la experiencia del usuario.
 
 📩 Si tienes preguntas o quieres contactarme, puedes escribirme por **LinkedIn o Discord**. También encontrarás botones en mis proyectos para conocer más sobre mí y lo que hago. ¡Será un gusto saber de ti!
 
