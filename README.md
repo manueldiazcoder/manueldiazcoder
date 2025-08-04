@@ -11,18 +11,20 @@
 <!-- Ways to contact -->
 &nbsp;Discord-> [![Discord: manueld1az](https://img.shields.io/badge/-manueld1az-purple?style=flat&logo=Discord&logoColor=white&link=https://www.discord.com/in/manueld1az-p-singh/)](https://discord.gg/zPw5BUwYKz)
 LinkedIn-> [![Linkedin: manueld1az](https://img.shields.io/badge/-manueld1az-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manueld1az-p-singh/)](https://www.linkedin.com/in/manueld1az)
-![GitHub followers](https://img.shields.io/github/followers/manueld1az?label=Follow&style=social)
+<!--![GitHub followers](https://img.shields.io/github/followers/manueld1az?label=Follow&style=social)-->
 <!-- I not have any followers yet ;) -->
 
 <!-- Professional Profile --><p>
-👋 ¡Hola! Soy un Desarrollador Full Stack <strong>autodidacta con pasión</strong> por la tecnología y el desarrollo de software.Durante </strong>los últimos casi 3 años</strong>, he adquirido conocimientos en varias tecnologías, incluyendo JavaScript, React, PHP, TypeScript, Angular, Ionic y SQL, entre otras.
+👋 ## ¡Hola! 👋
 
-💻 En este repositorio encontrarás algunos de mis proyectos más destacados, los cuales he construido para aplicar y demostrar mis habilidades en el desarrollo de software. Cada proyecto tiene su propio conjunto de tecnologías y desafíos, lo que me ha permitido aprender y crecer como desarrollador.
+Soy un **Desarrollador Full Stack autodidacta**, apasionado por la tecnología y la creación de soluciones digitales. A lo largo de mi aprendizaje he trabajado con tecnologías como **JavaScript, React, PHP, TypeScript, Angular, Ionic y SQL**, entre otras.
 
-👨‍💻 Soy una <strong>persona comprometida, perseverante,</strong> y disfruto trabajando en equipo para encontrar soluciones creativas a los problemas. Me enfoco en entregar <strong>soluciones bien estructuradas y eficientes</strong> que satisfagan las necesidades de los clientes y usuarios finales.
+💻 En este repositorio encontrarás varios de mis proyectos, creados para poner en práctica mis conocimientos y seguir mejorando como desarrollador. Cada uno representa un reto distinto y refleja lo que he aprendido en el camino.
 
-📩 Si tienes alguna pregunta o comentario sobre mis proyectos, no dudes en contactarme a través de mi Linkedin o Discord. ¡Me encantaría saber de ti y discutir cómo podríamos trabajar juntos en el futuro!, he anexado varios botones por todos mis proyectos, así encontrarás más información sobre mí y mi trabajo fácilmente.
-</p>
+👨‍💻 Me considero una persona **comprometida, perseverante y proactiva**, que disfruta trabajar en equipo y encontrar soluciones creativas a los problemas. Siempre apunto a entregar **código limpio, organizado y eficiente**, enfocado en la experiencia del usuario.
+
+📩 Si tienes preguntas o quieres contactarme, puedes escribirme por **LinkedIn o Discord**. También encontrarás botones en mis proyectos para conocer más sobre mí y lo que hago. ¡Será un gusto saber de ti!
+
 
 <!-- <hr>
 
