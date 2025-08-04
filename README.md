@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador de Sitios Web Full Stack y Aplicaciones para dispositivos moviles</h3>
 <p align="left">Puedes evidenciar mis habilidades revisando mis proyectos publicados en este perfil,
   también puedes encontrar más información sobre mí y comunicarte conmigo en mi Linkedin, puedes buscarme como "manueld1az"
-  o ubicar los botones que he anexado en este archivo</p>
+  o presionando el boton azul</p>
 <hr>
 
 <!-- Profile views -->
