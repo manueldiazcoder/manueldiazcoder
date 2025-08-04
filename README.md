@@ -15,7 +15,6 @@
 <!-- I not have any followers yet ;) -->
 
 <!-- Professional Profile --><p>
-👋 ¡Hola! 👋
 
 Soy un **Desarrollador Full Stack autodidacta**, apasionado por la tecnología y la creación de soluciones digitales. A lo largo de mi aprendizaje he trabajado con tecnologías como **JavaScript, React, PHP, TypeScript, Angular, Ionic y SQL**, entre otras.
 
