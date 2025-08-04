@@ -1,5 +1,5 @@
 <h2 align="center">Hola 👋, soy Manuel Diaz</h2>
-<h3 align="center">Desarrollador Web Full Stack</h3>
+<h3 align="center">Desarrollador de Sitios Web Full Stack y Aplicaciones para dispositivos moviles</h3>
 <p align="left">Puedes evidenciar mis habilidades revisando mis proyectos publicados en este perfil,
   también puedes encontrar más información sobre mí y comunicarte conmigo en mi Linkedin, puedes buscarme como "manueld1az"
   o ubicar los botones que he anexado en este archivo</p>
@@ -9,8 +9,8 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=manueld1az&label=Profile%20views&color=0e75b6&style=flat" alt="manueld1az"/>
 
 <!-- Ways to contact -->
-&nbsp;[![Discord: manueld1az](https://img.shields.io/badge/-manueld1az-purple?style=flat&logo=Discord&logoColor=white&link=https://www.discord.com/in/manueld1az-p-singh/)](https://discord.gg/zPw5BUwYKz)
-[![Linkedin: manueld1az](https://img.shields.io/badge/-manueld1az-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manueld1az-p-singh/)](https://www.linkedin.com/in/manueld1az)
+&nbsp;Discord: [![Discord: manueld1az](https://img.shields.io/badge/-manueld1az-purple?style=flat&logo=Discord&logoColor=white&link=https://www.discord.com/in/manueld1az-p-singh/)](https://discord.gg/zPw5BUwYKz)
+LinkedIn: [![Linkedin: manueld1az](https://img.shields.io/badge/-manueld1az-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manueld1az-p-singh/)](https://www.linkedin.com/in/manueld1az)
 ![GitHub followers](https://img.shields.io/github/followers/manueld1az?label=Follow&style=social)
 <!-- I not have any followers yet ;) -->
 
@@ -91,8 +91,8 @@
 <p><em><b>¡Me encanta conectar con personas diferentes,</b> así que si quieres saludar, <b>estaré feliz de conocerte o ayudarte si lo necesitas!</b> 😊</em></p><br>
 
 <!-- Ways to contact -->
-&nbsp;[![Discord: manueld1az](https://img.shields.io/badge/-manueld1az-purple?style=flat&logo=Discord&logoColor=white&link=https://www.discord.com/in/manueld1az-p-singh/)](https://discord.gg/zPw5BUwYKz)
-[![Linkedin: manueld1az](https://img.shields.io/badge/-manueld1az-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manueld1az-p-singh/)](https://www.linkedin.com/in/manueld1az) <br>
+&nbsp;Discord: [![Discord: manueld1az](https://img.shields.io/badge/-manueld1az-purple?style=flat&logo=Discord&logoColor=white&link=https://www.discord.com/in/manueld1az-p-singh/)](https://discord.gg/zPw5BUwYKz)
+LinkedIn: [![Linkedin: manueld1az](https://img.shields.io/badge/-manueld1az-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manueld1az-p-singh/)](https://www.linkedin.com/in/manueld1az) <br>
 Si te interesa mi trabajo y quieres colaborar o comunicarte conmigo, no dudes en contactarme a través de Linkedin o Discord.
 
 <!-- Grades of GitHub -->
