@@ -16,7 +16,7 @@
 
 <!-- Professional Profile --><p>
 
-Soy un **Desarrollador Full Stack autodidacta**, apasionado por la tecnología y la creación de soluciones digitales. A lo largo de mi aprendizaje he trabajado con tecnologías como **JavaScript, React, PHP, TypeScript, Angular, Ionic y SQL**, entre otras.
+Soy un **Desarrollador Full Stack**, apasionado por la tecnología y la creación de soluciones digitales. A lo largo de mi aprendizaje he trabajado con tecnologías como **JavaScript, React, PHP, TypeScript, Angular, Ionic y SQL**, entre otras.
 
 💻 En este repositorio encontrarás varios de mis proyectos, creados para poner en práctica mis conocimientos y seguir mejorando como desarrollador. Cada uno representa un reto distinto y refleja lo que he aprendido en el camino.
 
