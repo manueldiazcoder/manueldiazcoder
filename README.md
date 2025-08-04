@@ -9,8 +9,8 @@
 <!--<img align="left" src="https://komarev.com/ghpvc/?username=manueld1az&label=Profile%20views&color=0e75b6&style=flat" alt="manueld1az"/>-->
 
 <!-- Ways to contact -->
-Discord-> [![Discord: manueld1az](https://img.shields.io/badge/-manueld1az-purple?style=flat&logo=Discord&logoColor=white&link=https://www.discord.com/in/manueld1az-p-singh/)](https://discord.gg/zPw5BUwYKz)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn-> [![Linkedin: manueld1az](https://img.shields.io/badge/-manueld1az-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manueld1az-p-singh/)](https://www.linkedin.com/in/manueld1az)
+[![Discord: manueld1az](https://img.shields.io/badge/-manueld1az-purple?style=flat&logo=Discord&logoColor=white&link=https://www.discord.com/in/manueld1az-p-singh/)](https://discord.gg/zPw5BUwYKz)
+&nbsp;&nbsp;&nbsp;[![Linkedin: manueld1az](https://img.shields.io/badge/-manueld1az-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manueld1az-p-singh/)](https://www.linkedin.com/in/manueld1az)
 <!--![GitHub followers](https://img.shields.io/github/followers/manueld1az?label=Follow&style=social)-->
 <!-- I not have any followers yet ;) -->
 
@@ -93,8 +93,9 @@ Soy un **Desarrollador Full Stack autodidacta**, apasionado por la tecnología y
 <p><em><b>¡Me encanta conectar con personas diferentes,</b> así que si quieres saludar, <b>estaré feliz de conocerte o ayudarte si lo necesitas!</b> 😊</em></p><br>
 
 <!-- Ways to contact -->
-Discord-> [![Discord: manueld1az](https://img.shields.io/badge/-manueld1az-purple?style=flat&logo=Discord&logoColor=white&link=https://www.discord.com/in/manueld1az-p-singh/)](https://discord.gg/zPw5BUwYKz)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn-> [![Linkedin: manueld1az](https://img.shields.io/badge/-manueld1az-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manueld1az-p-singh/)](https://www.linkedin.com/in/manueld1az) <br>
+[![Discord: manueld1az](https://img.shields.io/badge/-manueld1az-purple?style=flat&logo=Discord&logoColor=white&link=https://www.discord.com/in/manueld1az-p-singh/)](https://discord.gg/zPw5BUwYKz)
+&nbsp;&nbsp;&nbsp;[![Linkedin: manueld1az](https://img.shields.io/badge/-manueld1az-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manueld1az-p-singh/)](https://www.linkedin.com/in/manueld1az)
+<br>
 Si te interesa mi trabajo y quieres colaborar o comunicarte conmigo, no dudes en contactarme a través de Linkedin o Discord.
 
 <!-- Grades of GitHub -->
