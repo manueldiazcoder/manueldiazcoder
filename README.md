@@ -1,6 +1,6 @@
 <img width="1584" height="396" alt="bannerGitHub" src="https://github.com/user-attachments/assets/c927684b-0c85-4e1b-b587-dba0fde79320" /><br/>
 
-Soy Desarrollador Web Full Stack con una sólida base técnica y visión de producto. Me involucro activamente en todo el ciclo de desarrollo: desde el analisis de la arquitectura, el diseño, el desarrollo, la implementacion, la documentación, hasta el despliegue en la nube y el escalamiento o mantenimiento.
+Soy Desarrollador Web Full Stack con una sólida base técnica y visión de producto. Me involucro activamente en todo el ciclo de desarrollo: desde el análisis de la arquitectura, el diseño, el desarrollo, la implementación, la documentación, hasta el despliegue en la nube y el escalamiento o mantenimiento.
 
 ✨ Me apasiona construir soluciones modulares, escalables y sostenibles, aplicando principios de Clean Code, Patrones de diseño y Metodologías ágiles. Trabajo con enfoque en resultados, interés continuo por la innovación y afinidad con tecnologías emergentes.
 
@@ -14,9 +14,9 @@ Actualmente desarrollo una aplicación web y móvil que beneficiará al municipi
 - 🔹 **Desarrollo Backend Robusto:** Implementación de APIs seguras y eficientes con buenas prácticas.  
 - 🔹 **Arquitectura Modular y Escalable:** Desarrollo orientado siempre a crear soluciones modulares para reutilización y crecimiento sostenible.  
 - 🔹 **Comunicación y Liderazgo Técnico:** Coordinación efectiva de equipos multidisciplinarios con enfoque colaborativo.  
-- 🔹 **Documentación Clara & Procesos Ágiles:** Uso de metodologías Scrum y documentación precisa para facilitar la colaboración.  
+- 🔹 **Documentación Clara y Procesos Ágiles:** Uso de metodologías Scrum y documentación precisa para facilitar la colaboración.  
 - 🔹 **Visión de Producto & Estrategia Digital:** Alineación tecnológica con objetivos de negocio y experiencia de usuario.  
-- 🔹 **Ingles como segundo idioma:** Nivel basico(B1).
+- 🔹 **Inglés como segundo idioma:** Nivel básico (B1).
 
 ---
 
@@ -69,7 +69,7 @@ Actualmente desarrollo una aplicación web y móvil que beneficiará al municipi
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) &nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) &nbsp;
 
-#### CMS:
+#### Content Management Systems (CMS):
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) &nbsp;
 ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white) &nbsp;
@@ -98,17 +98,16 @@ Actualmente desarrollo una aplicación web y móvil que beneficiará al municipi
 - Markdown 
 - Notion
 
-#### 💻 Sistemas Operativos:
--  Linux cualquier distribución (ej.: Arch, Ubuntu, Fedora, Debian).
--  Windows cualquier distribución (ej.: 10, 11, Home, Pro, Enterprise).
-    
-
 #### 🏗️ Buenas Prácticas:
 - Programación Orientada a Objetos (POO)  
 - Principios de Clean Code, SOLID 
 - Patrones de diseño de software  
-- Modelo vista controlador
+- Modelo vista controlador (MVC)
 - Metodologías ágiles (Scrum)  
+
+#### 💻 Sistemas Operativos:
+-  Linux cualquier distribución (ej.: Arch, Ubuntu, Fedora, Debian).
+-  Windows cualquier distribución (ej.: 10, 11, Home, Pro, Enterprise).
 
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manueldiazcoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
@@ -124,6 +123,6 @@ Actualmente desarrollo una aplicación web y móvil que beneficiará al municipi
 Si quieres colaborar en uno de mis proyectos o simplemente charlar sobre tecnología, puedes enviarme un mensaje a través de LinkedIn o Discord. ¡Estaré encantado de resolver dudas o ayudar en algo si hace falta!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuelcoder) &nbsp;
-[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelcoder@hotmail.com) &nbsp;
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/manueldiazcoder) &nbsp;
+[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelcoder@hotmail.com) &nbsp;
+[![Twitter](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/manueldiazcoder) &nbsp;
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Vj6xPEcu) &nbsp;
