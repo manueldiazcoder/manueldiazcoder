@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="bannerGitHub" src="https://github.com/user-attachments/assets/c927684b-0c85-4e1b-b587-dba0fde79320" /><br/>
+<img width="1584" height="396" alt="bannerGitHub" src="https://github.com/user-attachments/assets/778202d2-117a-46a4-abf6-6cfcf56fe0c3" /><br/>
+
 
 Soy Desarrollador Web Full Stack con una sólida base técnica y visión de producto. Me involucro activamente en todo el ciclo de desarrollo: desde el análisis de la arquitectura, el diseño, el desarrollo, la implementación, la documentación, hasta el despliegue en la nube y el escalamiento o mantenimiento.
 
