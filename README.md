@@ -12,12 +12,12 @@ Actualmente desarrollo una aplicación web y móvil que beneficiará al municipi
 
 ### 🧠 Habilidades Clave
 
-- 🔹 **Desarrollo Backend Robusto:** Implementación de APIs seguras y eficientes con buenas prácticas.  
-- 🔹 **Arquitectura Modular y Escalable:** Desarrollo orientado siempre a crear soluciones modulares para reutilización y crecimiento sostenible.  
-- 🔹 **Comunicación y Liderazgo Técnico:** Coordinación efectiva de equipos multidisciplinarios con enfoque colaborativo.  
-- 🔹 **Documentación Clara y Procesos Ágiles:** Uso de metodologías Scrum y documentación precisa para facilitar la colaboración.  
-- 🔹 **Visión de Producto & Estrategia Digital:** Alineación tecnológica con objetivos de negocio y experiencia de usuario.  
-- 🔹 **Inglés como segundo idioma:** Nivel básico (B1).
+ 🔹 **Desarrollo Backend Robusto:** Implementación de APIs seguras y eficientes con buenas prácticas.  
+ 🔹 **Arquitectura Modular y Escalable:** Desarrollo orientado siempre a crear soluciones modulares para reutilización y crecimiento sostenible.  
+ 🔹 **Comunicación y Liderazgo Técnico:** Coordinación efectiva de equipos multidisciplinarios con enfoque colaborativo.  
+ 🔹 **Documentación Clara y Procesos Ágiles:** Uso de metodologías Scrum y documentación precisa para facilitar la colaboración.  
+ 🔹 **Visión de Producto & Estrategia Digital:** Alineación tecnológica con objetivos de negocio y experiencia de usuario.  
+ 🔹 **Inglés como segundo idioma:** Nivel básico (B1).
 
 ---
 
@@ -95,15 +95,11 @@ Actualmente desarrollo una aplicación web y móvil que beneficiará al municipi
 
 #### 📚 Conocimientos Complementarios
 
-#### 📘 Documentación:
-- Markdown 
-- Notion
-
 #### 🏗️ Buenas Prácticas:
 - Programación Orientada a Objetos (POO)  
 - Principios de Clean Code, SOLID 
 - Patrones de diseño de software  
-- Modelo vista controlador (MVC)
+- Clean Architecture
 - Metodologías ágiles (Scrum)  
 
 #### 💻 Sistemas Operativos:
