@@ -1,6 +1,6 @@
 <img width="1584" height="396" alt="bannerGitHub" src="https://github.com/user-attachments/assets/778202d2-117a-46a4-abf6-6cfcf56fe0c3" /><br/>
 
-### Ingeniero de Software | Desarrollador Full Stack | Especialista en Java, Spring Boot & React/Angular
+### Desarrollador de Software | Especialista en Java, Spring Boot & React/Angular
 
 Soy un apasionado por construir soluciones modulares, escalables y sostenibles. Mi enfoque va más allá de escribir código: me involucro activamente en todo el ciclo de desarrollo desde la arquitectura y 
 el modelado de datos hasta el despliegue y mantenimiento aplicando principios de **Clean Code**, **Patrones de Diseño** y **Metodologías Ágiles**.
@@ -18,10 +18,10 @@ el modelado de datos hasta el despliegue y mantenimiento aplicando principios de
 
 ### 🧠 Mis Fortalezas Técnicas
 
-- 🔹 **Arquitectura & Backend Robusto:** Creación de APIs RESTful bajo Clean Architecture, seguras, eficientes y desacopladas.
-- 🔹 **Gestión Avanzada de Datos:** Administración de clústeres de bases de datos relacionales, optimización de consultas complejas y automatización con Flyway.
-- 🔹 **Diagnóstico de Incidentes:** Especialista en la resolución de fallos en entornos Linux mediante la interpretación profunda de logs.
-- 🔹 **Visión de Producto:** Alineación de la tecnología con los objetivos de negocio para crear experiencias que generen valor real al usuario final.
+-  **Arquitectura & Backend Robusto:** Creación de APIs RESTful bajo Clean Architecture, seguras, eficientes y desacopladas.
+-  **Gestión Avanzada de Datos:** Administración de clústeres de bases de datos relacionales, optimización de consultas complejas y automatización con Flyway.
+-  **Diagnóstico de Incidentes:** Especialista en la resolución de fallos en entornos Linux mediante la interpretación profunda de logs.
+-  **Visión de Producto:** Alineación de la tecnología con los objetivos de negocio para crear experiencias que generen valor real al usuario final.
 
 ---
 
