@@ -1,25 +1,40 @@
 <img width="1584" height="396" alt="bannerGitHub" src="https://github.com/user-attachments/assets/778202d2-117a-46a4-abf6-6cfcf56fe0c3" /><br/>
 
+### Ingeniero de Software | Desarrollador Full Stack | Especialista en Java, Spring Boot & React/Angular
 
-Soy Desarrollador Web Full Stack con una sólida base técnica y visión de producto. Me involucro activamente en todo el ciclo de desarrollo: desde el análisis de la arquitectura, el diseño, el desarrollo, la implementación, la documentación, hasta el despliegue en la nube y el escalamiento o mantenimiento.
-
-✨ Me apasiona construir soluciones modulares, escalables y sostenibles, aplicando principios de Clean Code, Patrones de diseño y Metodologías ágiles. Trabajo con enfoque en resultados, interés continuo por la innovación y afinidad con tecnologías emergentes.
-
-💻 Proyecto Actual:<br/>
-Actualmente desarrollo una aplicación web y móvil que beneficiará al municipio donde vivo, conectando ambas plataformas a un mismo servicio backend. Un proyecto que combina impacto social con innovación tecnológica.
+Soy un apasionado por construir soluciones modulares, escalables y sostenibles. Mi enfoque va más allá de escribir código: me involucro activamente en todo el ciclo de desarrollo desde la arquitectura y 
+el modelado de datos hasta el despliegue y mantenimiento aplicando principios de **Clean Code**, **Patrones de Diseño** y **Metodologías Ágiles**.
 
 ---
 
-### 🧠 Habilidades Clave
+### 🛠️ Tecnologías y Herramientas
 
- 🔹 **Desarrollo Backend Robusto:** Implementación de APIs seguras y eficientes con buenas prácticas.  
- 🔹 **Arquitectura Modular y Escalable:** Desarrollo orientado siempre a crear soluciones modulares para reutilización y crecimiento sostenible.  
- 🔹 **Comunicación y Liderazgo Técnico:** Coordinación efectiva de equipos multidisciplinarios con enfoque colaborativo.  
- 🔹 **Documentación Clara y Procesos Ágiles:** Uso de metodologías Scrum y documentación precisa para facilitar la colaboración.  
- 🔹 **Visión de Producto & Estrategia Digital:** Alineación tecnológica con objetivos de negocio y experiencia de usuario.  
- 🔹 **Inglés como segundo idioma:** Nivel básico (B1).
+- **Lenguajes & Core:** Java SE (POO), JavaScript, TypeScript, Node.js.
+- **Frameworks & Librerías:** Spring Boot, Angular, React, Ionic, Tailwind CSS.
+- **Bases de Datos & Infraestructura:** SQL, PostgreSQL Avanzado, Flyway, Linux, Docker, Git y GitHub.
+- **Metodologías & Automatización:** Scrum, Jira, Kanban, Workflow Automation (n8n).
 
 ---
+
+### 🧠 Mis Fortalezas Técnicas
+
+- 🔹 **Arquitectura & Backend Robusto:** Creación de APIs RESTful bajo Clean Architecture, seguras, eficientes y desacopladas.
+- 🔹 **Gestión Avanzada de Datos:** Administración de clústeres de bases de datos relacionales, optimización de consultas complejas y automatización con Flyway.
+- 🔹 **Diagnóstico de Incidentes:** Especialista en la resolución de fallos en entornos Linux mediante la interpretación profunda de logs.
+- 🔹 **Visión de Producto:** Alineación de la tecnología con los objetivos de negocio para crear experiencias que generen valor real al usuario final.
+
+---
+
+### 🚀 Proyecto Destacado
+
+#### **Plataforma de Turismo & Conectividad Local**
+Actualmente desarrollo una solución web y móvil orientada a conectar negocios locales con viajeros. El objetivo es impulsar el comercio de la región mediante una arquitectura compartida y un backend robusto.
+- **Stack:** Java, Spring Boot, PostgreSQL, Angular, Ionic.
+- **Foco:** Escalabilidad, persistencia optimizada y diseño de API bajo Clean Architecture.
+
+---
+
+### 🌐 Hablemos de Tecnología
 <!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manueldiazcoder&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=manueldiazcoder&theme=dark&hide_border=false)<br/>-->
@@ -28,9 +43,9 @@ Actualmente desarrollo una aplicación web y móvil que beneficiará al municipi
 ![](https://github-profile-trophy.vercel.app/?username=manueldiazcoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 📫 Contacto
+<!--## 📫 Contacto-->
 
-📩 ¿Conectamos?<br/>
+<!--📩 ¿Conectamos?<br/>-->
 ¿Quieres colaborar, innovar o intercambiar ideas? Estoy abierto a nuevas oportunidades y conversaciones.
 Si quieres colaborar en uno de mis proyectos o simplemente charlar sobre tecnología, puedes enviarme un mensaje a través de LinkedIn o Discord. ¡Estaré encantado de resolver dudas o ayudar en algo si hace falta!
 
